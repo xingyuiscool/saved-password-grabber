@@ -1,5 +1,4 @@
 web = "https://discord.com/api/webhooks/1039537198023852122/w-RJsMhzncObcM2mMz5vgl87LBYXOFq_E48x6FFETBv-zDryvAfwYA923Uyb685IOTc3"
-#inserer votre webhook dans les gimets sur la ligne d'haut dessus
 import os
 from dhooks import Webhook, File
 if os.name != "nt":
